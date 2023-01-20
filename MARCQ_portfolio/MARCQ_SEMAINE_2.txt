@@ -1,0 +1,22 @@
+Point d'avancement séance n°01
+Lieu de travail : Chez moi 
+Méthode de travail : seul
+Tâches prévues pendant la séance :découverte de bootstrap et organisation des différentes taches à effectuer
+Tâches traitées pendant la séance :découverte de bootstrap, mise en place de différentes pages avec structure de base 
+, création d'un menu de navigation entre les différentes pages(esthétique non définitif) 
+Problèmes rencontrés :/
+Tâches prévues avant la prochaine séance :continuer à organiser les pages, finir de mettre en page l'index
+
+Point d'avancement séance n°02
+Lieu de travail : chez moi 
+Méthode de travail : seul
+Tâche prévues pendant la séance : finir de rentrer toutes les informations de la page concernant le cv numérique
+Problèmes rencontrés : /
+Tâches prévus avant la prochaine séance : mise en page de la page avec la video, et avancer sur les autres pages également
+
+Point d'avancement séance n°03
+Lieu de travail : Chez moi 
+Méthode de travail : seul
+Tâches prévues pendant la séance : Mise en place de la page liens utiles avec des liens vers mon profil linkedin
+, vers mon emploi du temps universitaire et vers le site de l'iut. Egalement un endroit pour récuperer mon CV en format PDF.
+Tâches prévus avant la prochaine séance : continuer le site, notamment sur le projet professionnel et sur les compétences.
